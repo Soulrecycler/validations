@@ -1,0 +1,8 @@
+<resources>
+    <string name="error">validations</string>
+    <string name="name">enter a valid name </string>
+    <string name="email">enter a valid email</string>
+    <string name="phone">enter a valid number</string>
+    <string name="password">password too short</string>
+    <string name="retypepass">passwords dont match</string>
+</resources>
